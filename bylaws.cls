@@ -6,10 +6,10 @@
 
 \RequirePackage[letterpaper,margin=1in]{geometry}
 \RequirePackage[colorlinks,linkcolor=blue]{hyperref}
-%\usepackage{hyperref}
 \RequirePackage{titlesec}
 \RequirePackage{titletoc}
 \RequirePackage{paralist}
+\RequirePackage{fancyhdr}
 
 %\newcommand{\bylaw}[1]{\part{#1} \setcounter{section}{0}}
 %\renewcommand{\partname}{Bylaw}
